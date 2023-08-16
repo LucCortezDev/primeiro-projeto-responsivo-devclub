@@ -16,10 +16,10 @@
 <p>Meu primeiro projeto totalmente do 0 e ainda não finalizei ele 100% por que ainda quero incrementar mais coisas conforme estudo na plataforma DevClub.</p>
 
 <br>
-<img src="https://github.com/LucCortezDev/projeto-clima-e-tempo/blob/master/indaiatuba-temp2.png?raw=true">
+<img src="https://github.com/LucCortezDev/DevClub/blob/main/DevClub0/Desafio/image1responsividade.png?raw=true">
 <br>
 <br>
-<img src="https://github.com/LucCortezDev/projeto-clima-e-tempo/blob/master/peruibe-temp2.png?raw=true">
+<img src="https://github.com/LucCortezDev/DevClub/blob/main/DevClub0/Desafio/image2responsiva.png?raw=true">
 <br>
 
 
