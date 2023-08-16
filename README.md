@@ -9,7 +9,6 @@
 <br>
 -CSS
 <br>
--JavaScrip
 
 <br>
 <br>
