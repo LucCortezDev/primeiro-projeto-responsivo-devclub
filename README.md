@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h2> Esse foi meu primeiro projeto, meu primeiro contato com a programaçãoe foi palestrado e organizado por <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2> Esse foi meu primeiro projeto de responsividade, meu primeiro contato com o @media screen foi palestrado e organizado por <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
 <h3> Neste projetos usamos as ferramentas:<h3>
 -HTML
@@ -13,7 +13,7 @@
 
 <br>
 <br>
-<p>Meu primeiro projeto totalmente do 0 e ainda não finalizei ele 100% por que ainda quero incrementar mais coisas conforme estudo na plataforma DevClub.</p>
+<p>Meus projetos são aulas que assisto e coloco em pratica conforme estudo na plataforma DevClub.</p>
 
 <br>
 <img src="https://github.com/LucCortezDev/DevClub/blob/main/DevClub0/Desafio/image1responsividade.png?raw=true">
