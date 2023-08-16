@@ -2,7 +2,7 @@
 <br>
 <br>
 <br>
-<h2> Esse foi um projeto que fiz como teste e conhecer um pouco sobre programação e foi palestrado e organizado por <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
+<h2> Esse foi meu primeiro projeto, meu primeiro contato com a programaçãoe foi palestrado e organizado por <a href="https://rodolfomori.com.br/devclub">DevClub</a></h2>
 
 <h3> Neste projetos usamos as ferramentas:<h3>
 -HTML
